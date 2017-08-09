@@ -11,7 +11,7 @@ Where’s Waldo (or Wally) is a series of children’s books that challenges the
 
 Please see my recent blog post [Where's Waldo: Terminator Edition]() for an overview of my approach.
 
-I've also provided a complete end-to-end walk-through of my There's Waldo project [in this notebook](http://nbviewer.jupyter.org/github/bckenstler/theres-Waldo/blob/master/theres_waldo.ipynb). 
+I've also provided a complete end-to-end walk-through of my There's Waldo project [in this notebook](http://nbviewer.jupyter.org/github/bckenstler/TheresWaldo/blob/master/theres_waldo.ipynb). 
 
 You can find all training / testing images and corresponding predictions [here](https://www.flickr.com/photos/153621475@N06/albums/72157684946674930)
 
