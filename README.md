@@ -19,6 +19,12 @@ You can find all training / testing images and corresponding predictions [here](
 
 I've provided for you the original images and bounding box xml's necessary to recreate my process.
 
+First, unpack them:
+
+```shell
+$ unzip imgs_boxes.zip
+```
+
 To create the binary labels:
 
 ```shell
